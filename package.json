@@ -1,7 +1,7 @@
 {
   "name": "fgo23weeklytask2",
   "version": "1.0.0",
-  "main": "cobaWeeklyTask4.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Muhammad",
   "license": "ISC",
-  "description": "",
+  "description": "weeklyTask2",
   "dependencies": {
     "consola": "^3.4.0",
     "format": "^0.2.2"
