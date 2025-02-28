@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Muhammad",
   "license": "ISC",
-  "description": "weeklyTask2",
+  "description": "FAZZTRACK FGO23, Weekly Task 2",
   "dependencies": {
     "consola": "^3.4.0",
     "format": "^0.2.2"
